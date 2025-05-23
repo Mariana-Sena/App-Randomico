@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "App Randomico"
+rootProject.name = "RandomTaskDelegator"
 include(":app")
  

@@ -1,4 +1,3 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Theme.AppCompat.Light.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar" tools:ignore="ResourceCycle" />
-    <string name="app_name">Randomico</string>
+<resources>
+    <string name="app_name">Delegador de Tarefas</string>
 </resources>

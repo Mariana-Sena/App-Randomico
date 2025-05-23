@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.RandomTaskDelegator.NoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Personalizações do tema para o modo claro -->
+        <item name="colorPrimary">@color/blue_light</item>
+    </style>
+</resources>
